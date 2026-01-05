@@ -1,4 +1,4 @@
-public class Uc1 {
+public class UC1 {
     static class Banner1 {
         void display() {
             System.out.println("OOPS");
